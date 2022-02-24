@@ -7,3 +7,23 @@ h1{
     text-align: center;
 
 }
+h2 {
+    background-color: #000;
+    white-space: inherit;
+ /*   overflow: scroll;
+*/
+}
+h2 {
+    color: #fff;
+    display: block;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: .875rem;
+    overflow: auto;
+}
+h2 {
+    white-space: pre;
+    line-height: 1.5;
+    font-family: monospace,monospace;
+    font-weight: inherit;
+}
